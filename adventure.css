@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+}
+
+#game-container {
+	width: 1000px;
+	height: 500px;
+	margin: auto;
+	text-align: center;
+	background-image: url(images/RAM.jpg);
+	background-repeat: no-repeat;
+}
+
+#title {
+	color: red;
+}
+#description {
+	color: red;
+	font-size: 20px;
+}
+#button1 {
+	color: red;
+}
+#button2 {
+	color: red;
+}
+#button3 {
+	color: red;
+}
+
+
